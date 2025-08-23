@@ -1,0 +1,15 @@
+  .tanpa-bottsrtap{
+     border: none;
+    padding: 20 px;
+    font-weight:800 ;
+    font-size: 3em;
+    background-color: aqua;
+     color: bisque;
+     cursor: pointer;
+        }
+    .tanpa-bottsrtap:hover{
+            background-color: blue;
+            color: bisque;
+            transform: rotateY('angle');
+            transition: all .5s;
+        }
